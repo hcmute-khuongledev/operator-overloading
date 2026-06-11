@@ -1,0 +1,14 @@
+D:\HCMUTE\OOP\fraction-app\bin\Debug\net10.0\fraction-app.exe
+D:\HCMUTE\OOP\fraction-app\bin\Debug\net10.0\fraction-app.deps.json
+D:\HCMUTE\OOP\fraction-app\bin\Debug\net10.0\fraction-app.runtimeconfig.json
+D:\HCMUTE\OOP\fraction-app\bin\Debug\net10.0\fraction-app.dll
+D:\HCMUTE\OOP\fraction-app\bin\Debug\net10.0\fraction-app.pdb
+D:\HCMUTE\OOP\fraction-app\obj\Debug\net10.0\fraction-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUTE\OOP\fraction-app\obj\Debug\net10.0\fraction-app.AssemblyInfoInputs.cache
+D:\HCMUTE\OOP\fraction-app\obj\Debug\net10.0\fraction-app.AssemblyInfo.cs
+D:\HCMUTE\OOP\fraction-app\obj\Debug\net10.0\fraction-app.csproj.CoreCompileInputs.cache
+D:\HCMUTE\OOP\fraction-app\obj\Debug\net10.0\fraction-app.dll
+D:\HCMUTE\OOP\fraction-app\obj\Debug\net10.0\refint\fraction-app.dll
+D:\HCMUTE\OOP\fraction-app\obj\Debug\net10.0\fraction-app.pdb
+D:\HCMUTE\OOP\fraction-app\obj\Debug\net10.0\fraction-app.genruntimeconfig.cache
+D:\HCMUTE\OOP\fraction-app\obj\Debug\net10.0\ref\fraction-app.dll
