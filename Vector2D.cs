@@ -1,4 +1,4 @@
-namespace Vector2DApp
+namespace OperatorOverloading.Vector2D
 {
     public class Vector2D
     {

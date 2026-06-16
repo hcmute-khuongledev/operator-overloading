@@ -1,4 +1,6 @@
-﻿using FractionApp;
+﻿using OperatorOverloading.Money;
+using OperatorOverloading.Fraction;
+using OperatorOverloading.Vector2D;
 
 class Program
 {

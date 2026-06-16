@@ -1,4 +1,4 @@
-namespace FractionApp
+namespace OperatorOverloading.Fraction
 {
     public class Fraction
     {
